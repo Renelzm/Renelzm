@@ -12,4 +12,4 @@
 ## Contact
 
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
+[![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)]www.linkedin.com/in/rene-lazalde)
