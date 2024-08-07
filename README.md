@@ -10,3 +10,6 @@
 </p>
 
 ## Contact
+
+
+[![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
