@@ -14,4 +14,4 @@ Full-stack developer / Administrator / Data manage and transform
 
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/rene-lazalde)
-[Gmail](https://skillicons.dev/icons?i=gmail&theme=light)rene.lazalde@gmail.com
+![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)rene.lazalde@gmail.com
